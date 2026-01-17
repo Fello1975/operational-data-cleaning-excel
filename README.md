@@ -23,10 +23,10 @@ A VBA macro was developed to normalize the report by:
 ## Before / After
 
 ### Before (Unmodified Operational Report)
-![Unmodified Report](screenshots/Unmodified_Repository.png)
+![Unmodified Report](Unmodified_Repository.png)
 
 ### After (Normalized, Analysis-Ready Table)
-![Modified Report](screenshots/Modified_Repository.png)
+![Modified Report](Modified_Repository.png)
 
 ## Tools Used
 - Microsoft Excel
